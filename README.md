@@ -7,3 +7,4 @@
 1. Repository initialization.
 2. Commit message
 3. Checking git status
+4. basic of git and github.
